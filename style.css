@@ -24,3 +24,9 @@ ul {
 .add-emphasis {
     font-style: italic;
 }
+
+.back-button {
+    display: block;
+    margin: auto;
+    padding: 8px;
+}
